@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/pre-dexed/debug/classes-63608a9d6dfab1408491a71eb9135f5da27d26e1.jar" />
+    </item>
+    <item
+        jar="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-7b05e665559923fb5e38ccacea7643a6cf4166bb.jar" />
+    </item>
+    <item
+        jar="/home/seba/AndroidStudioProjects/TumblrViewer/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-bd14957e905fbead8a81cbadf1ec31a00db1bb45.jar" />
+    </item>
+    <item
+        jar="/home/seba/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-117ba3f0372d99f26cfff7d41a8be112efd8c46c.jar" />
+    </item>
+    <item
+        jar="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/exploded-aar/TumblrViewer/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7359e3741d3c388ea62dbb499045635e3fee0950">
+        <dex dex="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/pre-dexed/debug/classes-f6e9cba1f25ecb91b92aac4404c8a99a75d0a5a6.jar" />
+    </item>
+    <item
+        jar="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/pre-dexed/debug/classes-41f86deb73a91902b9b0c92bbe7461131f751835.jar" />
+    </item>
+    <item
+        jar="/home/seba/AndroidStudioProjects/TumblrViewer/app/libs/jdom-2.0.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f14738ec2e9dd0011e343717fa624a10f8aab64">
+        <dex dex="/home/seba/AndroidStudioProjects/TumblrViewer/app/build/intermediates/pre-dexed/debug/jdom-2.0.6-11dcd5870e86aa43382640f2138def29469c9185.jar" />
+    </item>
+
+</items>
